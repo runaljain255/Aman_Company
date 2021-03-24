@@ -1,4 +1,5 @@
 ﻿using Aman_Company.Models;
+using Aman_Company.Models.ViewModels;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 using System;
